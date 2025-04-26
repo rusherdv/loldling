@@ -1908,7 +1908,7 @@
       "h": 48
     },
     "gender": "female",
-    "attackType": "close",
+    "attackType": "range",
     "releaseDate": 2009,
     "region": "demacia",
     "lane": "support"

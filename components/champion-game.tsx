@@ -216,7 +216,7 @@ export default function ChampionGame() {
               onClick={resetGame}
               className="bg-yellow-500 hover:bg-yellow-600 text-black font-bold py-2 px-6 rounded-lg shadow-md transition-all duration-200 transform hover:scale-105"
             >
-              Jugar de nuevo
+              Juga de nuevo gordo si te da
             </Button>
           </div>
         )}
